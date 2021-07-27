@@ -1,0 +1,9 @@
+# Folders
+.ipynb_checkpoints/
+.git/
+.vscode/
+
+# Html files
+*.html
+
+docker_setup.txt
